@@ -1,4 +1,4 @@
-/*   
+/*
  * Template Name: Developer - Responsive Website Template for Developers
  * Version: 1.5
  * Author: Xiaoying Riley
@@ -100,6 +100,9 @@ a.dotted-link {
 a.dotted-link:hover {
   text-decoration: none;
   color: #49515a;
+}
+.pd-left-25{
+  padding-left: 25px;
 }
 /*
 iframe {
